@@ -1,0 +1,21 @@
+{
+  "name": "utility-iva",
+  "version": "0.0.1",
+  "description": "Utility per calcoli IVA, scorporo, imponibile, ecc..",
+  "main": "utility-iva.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dennybiasiolli/node-utility-iva"
+  },
+  "keywords": [
+    "iva",
+    "scorporo",
+    "imponibile",
+    "aliquota"
+  ],
+  "author": "Denny Biasiolli",
+  "license": "ISC"
+}
