@@ -1,6 +1,6 @@
 {
   "name": "utility-iva",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Utility per calcoli IVA, scorporo, imponibile, ecc..",
   "main": "utility-iva.js",
   "scripts": {
