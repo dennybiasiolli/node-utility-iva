@@ -4,7 +4,7 @@
   "description": "Utility per calcoli IVA, scorporo, imponibile, ecc..",
   "main": "utility-iva.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jest test.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "aliquota"
   ],
   "author": "Denny Biasiolli",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
